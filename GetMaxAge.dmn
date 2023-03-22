@@ -44,6 +44,17 @@
           <dmn:text/>
         </dmn:annotationEntry>
       </dmn:rule>
+      <dmn:rule id="_8F371BF2-67F0-4E7B-84FF-F20B7986016E">
+        <dmn:inputEntry id="_CF9463E3-C3CB-405F-B7B8-B9CDB76ECE39">
+          <dmn:text>"MS"</dmn:text>
+        </dmn:inputEntry>
+        <dmn:outputEntry id="_58C1BEDB-AFCD-4B2F-92A5-0B485FC3D55F">
+          <dmn:text>21</dmn:text>
+        </dmn:outputEntry>
+        <dmn:annotationEntry>
+          <dmn:text/>
+        </dmn:annotationEntry>
+      </dmn:rule>
       <dmn:rule id="_3F12E0CB-23A2-459E-B675-BED7FDC1D66B">
         <dmn:inputEntry id="_A62645A6-EA22-4C22-AC17-9E97F5FEB052">
           <dmn:text>""</dmn:text>
