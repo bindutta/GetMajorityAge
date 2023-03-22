@@ -46,7 +46,7 @@
       </dmn:rule>
       <dmn:rule id="_3F12E0CB-23A2-459E-B675-BED7FDC1D66B">
         <dmn:inputEntry id="_A62645A6-EA22-4C22-AC17-9E97F5FEB052">
-          <dmn:text>"DEFAULT"</dmn:text>
+          <dmn:text>""</dmn:text>
         </dmn:inputEntry>
         <dmn:outputEntry id="_C07D2751-008B-4D5A-A4E2-257A5CA205CC">
           <dmn:text>18</dmn:text>
